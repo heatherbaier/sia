@@ -1,0 +1,11 @@
+*data*
+*models*
+*lc*
+*.tiff*
+*.json*
+*.csv*
+*imagery*
+*models*
+*archive*
+*.ipynb_checkpoints*
+*__pycache__*
